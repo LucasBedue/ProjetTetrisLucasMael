@@ -1,0 +1,12 @@
+Richard
+9
+Arnold
+4
+Louis
+3
+Gerard
+2
+Gontrand
+1
+Charle
+0
